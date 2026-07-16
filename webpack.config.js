@@ -11,6 +11,7 @@ export default {
   devServer: {
     static: {
       directory: path.resolve(process.cwd(), 'src'),
+      index: 'template.html',
     },
     compress: true,
     port: 8080,
