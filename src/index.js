@@ -1,4 +1,4 @@
-import { homePage } from "./home";
+import { homePage } from "./home.js";
 
 // GOBAL VARIABLES
 const contentDiv = document.querySelector("#content");
