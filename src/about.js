@@ -9,4 +9,5 @@ export const aboutPage = () => {
         <p>We source ingredients locally whenever possible and believe that great food should be joyful, approachable, and a little bit magical. Whether you’re a first-time visitor or a regular “bear” (our nickname for loyal guests), you’ll leave Teddy’s Tapas with a full belly and an even fuller heart.</p>
 
         <p>Come as strangers, leave as bear-y best friends.</p>`
-        }
+    contentDiv.appendChild(contentContainer);
+}
